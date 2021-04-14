@@ -1,5 +1,5 @@
 blueprint:
-  name: BP - Pico Config
+  name: Lutron - Pico 4 Button
   description: "This is for the 5 button picos that have the following model:\n\n
   PJ-3BRL-GXX-XXX (Pico3ButtonRaiseLower)\n\nSelect an action for each button listed below. "
   domain: automation
